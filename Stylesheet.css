@@ -1,0 +1,28 @@
+img {height: auto;
+			width: auto;
+			outline-style: solid;
+			outline-color: gray;
+			}
+
+		
+		body {background: linear-gradient(45deg, darkgray, skyblue);
+			  
+		}
+
+		h1 {font-family: cursive;}
+
+		h2 {color: darkblue;
+			font-family: cursive;
+		}
+
+		h3 {color: blue;
+			font-family: "American Typewriter";
+		}
+
+		p  {font-family: Arial;
+			font-size: large; }
+
+		a {color: rgb(185, 242, 255);}
+
+
+	
